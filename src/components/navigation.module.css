@@ -1,0 +1,8 @@
+.navigationDiv {
+    height: 300px;
+    width: 18%;
+    background-color: #6FA8DC;
+    margin: 5px 10px 5px 5px;
+    display: inline-block;
+    border: 3px solid black;
+}

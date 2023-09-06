@@ -1,0 +1,11 @@
+.mainDiv {
+  vertical-align: top;
+  display: inline-block;
+  height: 400px;
+  width: 68%;
+  margin: 5px;
+  background-color: #E06666;
+  padding: 10px;
+  border: 3px solid black;
+}
+

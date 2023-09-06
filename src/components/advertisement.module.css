@@ -1,0 +1,10 @@
+.advertisementDiv {
+    width: 90%;
+    height: 150px;
+    background-color: #B4A7d6;
+    border: 3px solid black;
+    margin: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+}
